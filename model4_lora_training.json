@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Gentle solo piano with a bittersweet, reflective melody.",
+    "audio_path": "model4_lora_audio/audio/scene_001.wav",
+    "rating": 1
+  },
+  {
+    "prompt": "Soft strings with rising tension, expressing wounded pride.",
+    "audio_path": "model4_lora_audio/audio/scene_002.wav",
+    "rating": 2
+  },
+  {
+    "prompt": "Minimalist harp and flute, evoking irony and hurt feelings.",
+    "audio_path": "model4_lora_audio/audio/scene_003.wav",
+    "rating": 3
+  }
+]
